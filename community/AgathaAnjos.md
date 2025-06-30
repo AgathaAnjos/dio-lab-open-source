@@ -1,11 +1,11 @@
 <div align=center>
-<h1>Olá, me chamo Agatha, bem-vindo(a) ao meu perfil! 🤓👋</h1>
+<h1>Olá, me chamo Agatha, bem-vindo(a) ao meu perfil GitHub! 🤓👋</h1>
 </div>
  
 <div>
 <h2>👩‍💻 Sobre mim: </h2>
 
-- Inicinate na área de programação e análise
+- Iniciante na área de programação e análise
   </br>
 - Foco em desenvolvimento Front-End
   </br>
